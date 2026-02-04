@@ -5,6 +5,7 @@
   "main": "index.ts",
   "types": "index.ts",
   "dependencies": {
+    "@chatforms/core": "0.0.1",
     "react": "^18.2.0"
   }
 }

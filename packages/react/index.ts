@@ -1,10 +1,10 @@
 export { AssistantMessage } from "./AssistantMessage"
 export type { AssistantMessageProps, SelectionValue } from "./AssistantMessage"
-export { serializeSelections } from "../core/serialize"
+export { serializeSelections } from "@chatforms/core"
 export type {
   AssistantMessage as AssistantMessageType,
   ChatFormBlock,
   ChatFormOption,
   ChatFormType,
   UserMessage,
-} from "../core/schema"
+} from "@chatforms/core"
